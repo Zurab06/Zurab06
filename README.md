@@ -16,11 +16,6 @@ ____
 - [frontend](https://github.com/Zurab06/sushi)
 - [backend](https://github.com/Zurab06/sushi-backend)
 ---
- Команда проекта:
- <h3>https://github.com/Ingushetiya<h3/>
-  <h3>https://github.com/SultanHasanov<h3/>
-   <h3>https://github.com/oneOfThePeakyBlinders<h3/>
-
 
 ## Связь со мной: 
 Telegram: https://t.me/gaunt0066
